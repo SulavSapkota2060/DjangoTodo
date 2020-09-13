@@ -25,7 +25,7 @@ SECRET_KEY = 'aowrz4m857x=4rvy&+nfr20y%fnxp9kph8uag!&o35ca1-b(g5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sulavtodoappdjango.herokuapp.com','127.0.0.1']
 
 
 # Application definition
